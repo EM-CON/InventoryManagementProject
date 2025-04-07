@@ -26,4 +26,10 @@ Ce projet est un système complet de gestion d’inventaire développé avec .NE
    git clone https://github.com/ton-nom-utilisateur/inventory-management-blazor.git
    cd inventory-management-blazor
 
+## 👩‍💻 En cours d’apprentissage
+Ce projet est réalisé dans le cadre de mon apprentissage de Blazor SSR. L’objectif est de comprendre en profondeur le fonctionnement de Blazor, les bonnes pratiques de développement en .NET 8, et les aspects pratiques d’un projet complet.
 
+📚 Références
+Tutoriel vidéo : [nom et lien vers la vidéo YouTube]
+
+Documentation officielle Blazor : https://learn.microsoft.com/en-us/aspnet/core/blazor/
